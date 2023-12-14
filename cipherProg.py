@@ -1,3 +1,5 @@
+#testing
+
 alphabet = [chr(i) for i in range(97, 123)]
 
 direction = input("Type 'encode' to encrypt, type 'decode' to decrypt:\n")
